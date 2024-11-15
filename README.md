@@ -13,7 +13,7 @@ The Test Documents are Attached to the Google Drive Link: https://drive.google.c
 1. Test Plan: https://docs.google.com/document/d/17TBMtDXv7x1i3AbXMHOcS-bPvG6P-ok0D6dkzGemCYs/edit?usp=sharing
 2. Mind Map: https://drive.google.com/file/d/1dvaOVTsR69P-0EZzbJKr5q7D5KD4YMJz/view?usp=sharing
 3. Test Scenario: https://docs.google.com/spreadsheets/d/1ayem6xInp6x78mJRSoUzhPgq8MnuwVj9WRbCsNU7kI8/edit?usp=drive_link
-4. Test cases:
+4. Test cases: https://docs.google.com/spreadsheets/d/15_44RROdkH4GL8zjAffbQlqVbfG8xA6h7OQXKa25d0U/edit?usp=sharing
 5. Test Execution:
 6. Bug Report:
 7. Test Summary:
