@@ -1,6 +1,6 @@
 # CW1 - Weekend Planner
 ## The website "My Weekend Planner" helps users plan weekend activities, likely offering features to organize and schedule events or outings for upcoming weekends. You can explore options and get ideas for leisure or social events on the site.
-##Webpage![Screenshot 2024-11-15 122632](https://github.com/user-attachments/assets/e11ab416-aa88-4257-b9c3-554e38b7dd64)
+![Screenshot 2024-11-15 122632](https://github.com/user-attachments/assets/e11ab416-aa88-4257-b9c3-554e38b7dd64)
 
 #### This Repository Includes the Details & Issues Encountered in Performing Manual Testing for Website Weekend Planner
 #### Website url: https://my-weekend-planner.netlify.app/
