@@ -20,7 +20,7 @@
 7. Test Summary: https://docs.google.com/document/d/1KUi1j0168p9hP4CgPW4p66qKbpcVy98crxhj6vBW50E/edit?usp=sharing
 8. Bug Summary: https://docs.google.com/spreadsheets/d/1e5_ROPGM2kKx_HQj9Bu6ltzZNjmrObkZjalurxujxa4/edit?usp=sharing
 
-Presentation video: 
+Presentation video: https://youtu.be/Cr21E3pAV8U
 
 ### Features Tested
 ![Mind Map](https://github.com/user-attachments/assets/9efdad52-6d8b-46a4-a36e-45910b172f4e)
