@@ -17,9 +17,10 @@
 4. Test cases: https://docs.google.com/spreadsheets/d/15_44RROdkH4GL8zjAffbQlqVbfG8xA6h7OQXKa25d0U/edit?usp=sharing
 5. Test Execution: https://docs.google.com/spreadsheets/d/1WXET5KqqvFuj7clmio9lqC38l1pHboGYjMJiwbjeo_k/edit?usp=drive_link
 6. Bug Report: https://docs.google.com/spreadsheets/d/1Anp0gl_tbbD2XwSqfCGymwyKB49ClfPVLMBgvk7wdSs/edit?usp=drive_link
-7. Test Summary:
-8. Bug Summary:
+7. Test Summary: https://docs.google.com/document/d/1KUi1j0168p9hP4CgPW4p66qKbpcVy98crxhj6vBW50E/edit?usp=sharing
+8. Bug Summary: https://docs.google.com/spreadsheets/d/1e5_ROPGM2kKx_HQj9Bu6ltzZNjmrObkZjalurxujxa4/edit?usp=sharing
 
+Presentation video: 
 
 ### Features Tested
 ![Mind Map](https://github.com/user-attachments/assets/9efdad52-6d8b-46a4-a36e-45910b172f4e)
